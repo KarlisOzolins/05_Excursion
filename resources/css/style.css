@@ -24,6 +24,13 @@ body {
     color: aquamarine;
 }
 
+/* Footer */
+
+.footer {
+    font-size: 21px;
+    color:gray;
+}
+
 /* Alignment */
 .right {
     text-align: right;
